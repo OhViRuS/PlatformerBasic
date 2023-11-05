@@ -26,3 +26,6 @@
 ## Getting Started
 
 Jump right into the action and start your adventure in "Platformer gmae" The world is waiting for a hero like you!
+
+## Playable version
+https://play.unity.com/mg/other/webgl-builds-377848
